@@ -1,6 +1,11 @@
 h1 {
 text-align: center;
 font-family: arial;
+font-size: 40px;
+}
+h2 {
+text-align: center;
+font-family: arial;
 }
 article {
 background-color: green;
