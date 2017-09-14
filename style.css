@@ -1,19 +1,19 @@
-h1{
+h1 {
 text-align: center;
 font-family: arial;
 color: green;
 }
-article{
+article {
 backgound-color: skyblue;
 width: 300px;
 }
-img{
+img {
   display: block;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
 }
-header{
+header {
   background-color: salmon;
 }
 
